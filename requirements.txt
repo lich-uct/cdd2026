@@ -1,0 +1,5 @@
+pandas
+rdkit
+seaborn
+scikit-learn
+jupyter

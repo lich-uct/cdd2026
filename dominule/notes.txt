@@ -1,0 +1,6 @@
+
+
+ZINC - dostupné molekuly (komerční) i 3d struktura
+cheml
+
+getting started with RDKit in Python
